@@ -1,2 +1,2 @@
 # MNIST
-An implementation of a feed-forward neural network for the MNIST dataset.
+An implementation of a feed-forward neural network to classify hand-written digits.
